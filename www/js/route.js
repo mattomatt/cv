@@ -24,7 +24,8 @@ angular.module('curriculum').config(['$stateProvider', '$urlRouterProvider',
                 url: '/fotoFull',
                 views: {
                     'mainArea': {
-                        templateUrl: 'js/home/_fotoFull.html'
+                        templateUrl: 'js/identity/_identity.html',
+                        controller: 'IdentityCtrl'
                     }
                 }
             }).
@@ -32,7 +33,7 @@ angular.module('curriculum').config(['$stateProvider', '$urlRouterProvider',
                 url: '/map',
                 views: {
                     'mainArea': {
-                        templateUrl: 'js/home/_map.html',
+                        templateUrl: 'js/map/_map.html',
                         controller: 'MapCtrl'
 
                     }

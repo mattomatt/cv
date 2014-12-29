@@ -1,0 +1,97 @@
+{
+  "name": "Matteo",
+  "surname": "Tassetti",
+  "birthday":"07/06/1979",
+  "headers":["Passionate Developer", "Team Leader", "Software Engineer"],
+  "desiredJobTitle":"Team Leader / Consultant",
+  "linkedIn":"matteotassetti",
+  "address":
+  {
+    "country":"Italy",
+    "city":"Argelato",
+    "district":"Bologna",
+    "street":"Via Centese",
+    "number":"180",
+    "latitude":44.644598,
+    "longitude":11.345068
+  },
+  "workExperiences":[
+    {
+      "start":"May 2011",
+      "end":"Present",
+      "jobTitle":"Software Development Manager",
+      "company":"Anastasis",
+      "jobDescription":"<h2>I'm in charge of <strong>managing the software development</strong> in Anastasis. I have a group of 10 internal people and several suppliers. We develop software Web and client for various platforms, including mobile.</h2><h2>I promoted and lead <strong>changes in organization and tecnologies</strong>, from \"Waterfall PM\"and property framework to \"Agile\" metodologies and open source. In particular now we are developing with Grails, Angularjs, Ionic/Cordova and other popular modern open source frameworks.</h2><h2>The main projects I currently lead are: RIDInet (<a href=\"http://info.ridinet.it\">info.ridinet.it</a>), a learning disability rehabilitation platform and ePico!(<a href=\"http://www.epicosw.it\">www.epicosw.it</a>), a set of tools for students.</h2>"
+    },
+    {
+      "start":"July 2009",
+      "end":"April 2011",
+      "jobTitle":"Project Manager",
+      "company":"Anastasis",
+      "jobDescription": "<h2>Besides of developing I had the responsability of coordinating teams working on projects, suppliers and university relationship.</h2><h2>The main project I led is AD-DA (<a href=\"http://adda.giuntios.it\">adda.giuntios.it</a>), a web application for dislexia diagnosis.</h2>"
+    },
+    {
+      "start":"July 2006",
+      "end":"Present",
+      "jobTitle":"Software Developer",
+      "company":"Anastasis",
+      "jobDescription": "<h2><strong>Web application developer</strong> in the field of learning disabilities diagnosis and rehabilitation.</h2><h2>In the first years of this experience We developed a <strong>proprietary framework</strong>. Server side Java Stack+mysql, client side: xhtml, js, css and, in some projects, Flex. It was a very interesting experience, usefull to approach lots of architetural problems.</h2><h2>In the last years we moved to more standard technologies</h2>"
+    }
+  ],
+  "education":[
+    {
+      "start":"October 1998",
+      "end":"July 2006",
+      "title":"Computer Science Engineer",
+      "institute":"Università di Bologna",
+      "description": "<div>Master's Degree (5 years)</div><div>Erasmus in Spain (10 months)</div>"
+    },
+    {
+      "start":"September 1993",
+      "end":"July 1998",
+      "title":"Liceo Scientifico",
+      "institute":"Leonardo Da Vinci di Civitanova Marche"
+    }
+  ],
+  "languages":[
+    {
+      "name":"chinese",
+      "knowledge":0
+    },
+    {
+      "name":"english",
+      "knowledge":80
+    },
+    {
+      "name":"french",
+      "knowledge":0
+    },
+    {
+      "name":"german",
+      "knowledge":0
+    },
+    {
+      "name":"italian",
+      "knowledge":100
+    },
+    {
+      "name":"japanese",
+      "knowledge":0
+    },
+    {
+      "name":"portuguese",
+      "knowledge":0
+    },
+    {
+      "name":"spanish",
+      "knowledge":70
+    }
+  ],
+  "phoneNumber": "+39 347 3033083",
+  "emailAddress": "mattomatt@gmail.com",
+  "communicationSkills": "<p>Good communication skills gained coordinating internal and external resources.</p><p>Able to manage the team in order to emerge best outcomes from each member.</p>",
+  "managerialSkills": "<p>Leadership (currently coordinating a team of 10 people).</p><p>I'm used to manage project budgets and goals. I report to management.</p><p>I'm interested in improving my skills and the skills of people working with me.</p>",
+  "jobRelatedSkills":
+  "<p>I'm very experienced in educational and health domain, in particular on Dyslexia and special needs related contexts. I'm experienced in digital publishing as well.</p><p>I like to work in agile contexts (Scrum preferred).</p><p>I develop beyond that manage projects, because I'm interested in investigating new tecnologies to improve the team abilities.</p><p>Among others, I feel at ease at myself with this technologies/techniques:</p><p>Java, Groovy, Grails, Gorm, mysql, junit, Html, css, Jquery, Angularjs, Ionic, Cordova/Phonegap, karma, REST API implementation...</p><p>...and with these tools:</p><p>Jira, Eclipse, intelliJ, Webstorm, git, cvs, bower, npm, UML...</p><p>I'm currently studying nodejs, mongodb, mongoose and firebase as backend technologies.</p><p>I've basic knowledge about sever administration, mostly oriented in web application deployment (Apache, Virtual Hosts, Tomcat...).</p>"
+
+}

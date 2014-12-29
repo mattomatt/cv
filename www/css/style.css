@@ -18,27 +18,9 @@
 
 .skillbar-bar {
     height:35px;
-
-    background:#6adcfa;
-    border-radius:3px;
+    background: rgb(5, 255, 0);
+    border-radius:5px;
 }
-
-.skillbar-bar-100 {
-    width:100%;
-    background: rgba(5, 255, 0,1);
-}
-
-.skillbar-bar-80 {
-    width:80%;
-    background: rgba(5, 255, 0,0.5);
-}
-
-.skillbar-bar-70 {
-    width:70%;
-    background: rgba(5, 255, 0,0.3);
-}
-
-
 
 .skill-bar-percent {
     position:absolute;
